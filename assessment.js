@@ -71,4 +71,4 @@ function indexFinder() {
 
 var indexes = indexFinder();
 
-//#10 is a horribly written problem
+//#10 should be reworded as it implies that you are returning a variable called indexes.
